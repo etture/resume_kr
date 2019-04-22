@@ -14,15 +14,15 @@
 ### Programming Languages
 - Java 🥇 [1](#connectup) [2](#cuebap) [3](#한국대학생IT경영학회-조원-편성-프로그램) 
 - Kotlin 🥇
-- JavaScript (ES6+) 🥇 [1](#acqua-api) [2](#서빙고-api)
+- JavaScript (ES6+) 🥇 [1](#acqua-api) [2](#서빙고-api) [3](#서빙고-사장님-대시보드)
 - Python 🥇 [1](#네이버-블로그-ID-크롤러)
 - C 🥈
 
 ### Frameworks / Technologies
-- Android (Java/Kotlin) 🥇 [1](#connectup)
+- Android (Java/Kotlin) 🥇 [1](#connectup) [2](#cuebap)
 - Express (Node.js) 🥇 [1](#acqua-api) [2](#서빙고-api)
 - AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈 [1](#서빙고-api)
-- React 🥈
+- React 🥈 [1](#서빙고-사장님-대시보드)
 - React-Native 🥈
 - Docker 🥉 [1](#서빙고-api)
 - Django 🥉
@@ -31,23 +31,23 @@
 
 ## Projects
 
-### ConnectUp
-#Java #Android
+### _ConnectUp_
+`#Java` `#Android`
 
 [GitHub Link](https://github.com/etture/ConnectUp)
 
 한국대학생IT경영학회 16기 학술제 프로젝트로 개발한 안드로이드 프론트엔드입니다. 
 
 ### Cuebap
-#Java #Android
-#Firebase
+`#Java` `#Android`
+`#Firebase`
 
 [GitHub Link](https://github.com/etture/Cuebap)
 
 큐밥
 
 ### 한국대학생IT경영학회 조원 편성 프로그램 
-#Java 
+`#Java`
 
 [GitHub Link](https://github.com/etture/KUSITMS-MemberSorter)
 
@@ -55,30 +55,30 @@
 
 
 ### Acqua API
-#JavaScript #ES6 #Node.js #Express
-#Heroku
+`#JavaScript` `#ES6` `#Node.js` `#Express`
+`#Heroku`
 
 [GitHub Link](https://github.com/etture/acqua-api)
 
 아쿠아 REST API
 
 ### 서빙고 API
-#JavaScript #ES6 #Node.js #Express
-#AWS #Docker
+`#JavaScript` `#ES6` `#Node.js` `#Express`
+`#AWS` `#Docker`
 
 [GitHub Link](https://github.com/etture/servinggo-api)
 
 서빙고 REST API
 
 ### 서빙고 사장님 대시보드
-#JavaScript #ES6 #React #Redux
+`#JavaScript` `#ES6` `#React` `#Redux`
 
 [GitHub Link](https://github.com/etture/servinggo-merchant)
 
 서빙고 사장님 대시보드
 
 ### 네이버 블로그 ID 크롤러
-#Python #Headless #Selenium
+`#Python` `#Headless` `#Selenium`
 
 [GitHub Link](https://github.com/etture/Keyword_Id_Extractor)
 
