@@ -12,14 +12,14 @@
 ```
 
 ### Programming Language
-- Java 🥇 [1](#한국대학생IT경영학회-조원-편성-프로그램)
+- Java 🥇 [1](#한국대학생IT경영학회-조원-편성-프로그램) [2](#connectup)
 - Kotlin 🥇
 - JavaScript (ES6+) 🥇
 - Python 🥇
 - C 🥈
 
 ### Framework / Technologies
-- Android (Java/Kotlin) 🥇
+- Android (Java/Kotlin) 🥇 [1](#connectup)
 - Express (Node.js) 🥇
 - AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈
 - React 🥈
@@ -32,9 +32,18 @@
 ## Projects
 ### 한국대학생IT경영학회 조원 편성 프로그램 
 #Java 
-[Link](https://github.com/etture/KUSITMS-MemberSorter)
+
+[GitHub Link](https://github.com/etture/KUSITMS-MemberSorter)
+
+조원들을 기준에 맞춰 각각의 조로 편성하는 프로그램입니다.
 
 
+### ConnectUp
+#Java #Android #XML
+
+[GitHub Link](https://github.com/etture/ConnectUp)
+
+한국대학생IT경영학회 16기 학술제 프로젝트로 개발한 안드로이드 프론트엔드입니다. 
 
 
 
