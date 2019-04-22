@@ -38,7 +38,7 @@
 
 한국대학생IT경영학회 16기 학술제 프로젝트로 개발한 안드로이드 프론트엔드입니다. 
 
-### Cuebap
+### _Cuebap_ ([GitHub Link](https://github.com/etture/Cuebap))
 `#Java` `#Android`
 `#Firebase`
 
