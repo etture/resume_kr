@@ -37,6 +37,7 @@
 [GitHub Link](https://github.com/etture/ConnectUp)
 
 한국대학생IT경영학회 16기 학술제 프로젝트로 개발한 안드로이드 프론트엔드입니다. 
+## 
 
 ### _Cuebap_
 `#Java` `#Android`
@@ -45,6 +46,7 @@
 [GitHub Link](https://github.com/etture/Cuebap)
 
 큐밥
+##
 
 ### _한국대학생IT경영학회 조원 편성 프로그램_ 
 `#Java`
@@ -52,7 +54,7 @@
 [GitHub Link](https://github.com/etture/KUSITMS-MemberSorter)
 
 조원들을 기준에 맞춰 각각의 조로 편성하는 프로그램입니다.
-
+##
 
 ### _Acqua API_
 `#JavaScript` `#ES6` `#Node.js` `#Express`
@@ -61,6 +63,7 @@
 [GitHub Link](https://github.com/etture/acqua-api)
 
 아쿠아 REST API
+##
 
 ### _서빙고 API_
 `#JavaScript` `#ES6` `#Node.js` `#Express`
@@ -69,6 +72,7 @@
 [GitHub Link](https://github.com/etture/servinggo-api)
 
 서빙고 REST API
+##
 
 ### _서빙고 사장님 대시보드_
 `#JavaScript` `#ES6` `#React` `#Redux`
@@ -76,6 +80,7 @@
 [GitHub Link](https://github.com/etture/servinggo-merchant)
 
 서빙고 사장님 대시보드
+##
 
 ### _네이버 블로그 ID 크롤러_
 `#Python` `#Headless` `#Selenium`
