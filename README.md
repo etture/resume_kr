@@ -12,7 +12,7 @@
 ```
 
 ### Programming Language
-- Java 🥇 [1](#한국대학생IT경영학회%20조원%20편성%20프로그램)
+- Java 🥇 [1](#한국대학생it경영학회%20조원%20편성%20프로그램)
 - Kotlin 🥇
 - JavaScript (ES6+) 🥇
 - Python 🥇
