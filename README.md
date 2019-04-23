@@ -49,7 +49,7 @@
 
 연세대학교 테크노아트학부 캡스톤 프로젝트에서 의뢰 받아 제작한 안드로이드 앱입니다.
 - 메뉴 담기, 주문
-- Firebase를 이용한 소셜셜셜셜 로그인
+- Firebase를 이용한 소셜 로그인
 ##
 
 ### _한국대학생IT경영학회 조원 편성 프로그램_ 
@@ -68,6 +68,8 @@
 [GitHub Link](https://github.com/etture/acqua-api)
 
 아쿠아 REST API
+- 지인 관계 관리 서비스 'Acqua' 용 REST API
+- 지인 관련 데이터 DB CRUD 작업 및 API 문서화
 ##
 
 ### _서빙고 API_
