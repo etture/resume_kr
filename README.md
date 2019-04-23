@@ -37,6 +37,7 @@
 [GitHub Link](https://github.com/etture/ConnectUp)
 
 한국대학생IT경영학회 16기 학술제 프로젝트로 개발한 안드로이드 프론트엔드입니다. 
+- TabLayout, RecyclerView 등을 활용한 커뮤니티 앱
 ## 
 
 ### _Cuebap_
@@ -46,7 +47,9 @@
 
 [GitHub Link](https://github.com/etture/Cuebap)
 
-큐밥
+연세대학교 테크노아트학부 캡스톤 프로젝트에서 의뢰 받아 제작한 안드로이드 앱입니다.
+- 메뉴 담기, 주문
+- Firebase를 이용한 소셜셜셜셜 로그인
 ##
 
 ### _한국대학생IT경영학회 조원 편성 프로그램_ 
@@ -75,6 +78,8 @@
 [GitHub Link](https://github.com/etture/servinggo-api)
 
 서빙고 REST API
+- QR코드 메뉴 주문결제 서비스 서빙고 용 REST API
+- Redis, MySQL, Oauth2, Docker 사용
 ##
 
 ### _서빙고 사장님 대시보드_
@@ -83,6 +88,9 @@
 [GitHub Link](https://github.com/etture/servinggo-merchant)
 
 서빙고 사장님 대시보드
+- QR코드 메뉴 주문결제 서비스 서빙고 점주용 프론트엔드
+- React.js를 이용한 웹 어플리케이션 형태로 개발
+- Redux를 이용한 상태관리
 ##
 
 ### _네이버 블로그 ID 크롤러_
@@ -91,6 +99,9 @@
 [GitHub Link](https://github.com/etture/Keyword_Id_Extractor)
 
 네이버 블로그 ID 크롤러
+- Selenium의 Headless Chromium 드라이버를 이용하여 네이버 블로그 크롤링
+- 검색어에 따라 결과로 보여지는 블로그 글 목록을 크롤링하여 해당 게시글 작성자 및 댓글 작성자 ID 스크래이핑
+- 검색어 별 관심을 보인 유저 ID 추출, 타겟 광고 등에 활용
 
 
 ## Courses
