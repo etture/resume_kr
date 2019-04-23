@@ -14,13 +14,13 @@
 ### Programming Languages
 - Java 🥇 [1](#connectup) [2](#cuebap) [3](#한국대학생IT경영학회-조원-편성-프로그램) 
 - Kotlin 🥇
-- JavaScript (ES6+) 🥇 [1](#acqua-api) [2](#서빙고-api) [3](#서빙고-사장님-대시보드)
+- JavaScript (ES6+) 🥇 [1](#서빙고-api) [2](#서빙고-사장님-대시보드) [3](#acqua-api) 
 - Python 🥇 [1](#네이버-블로그-ID-크롤러)
 - C 🥈
 
 ### Frameworks / Technologies
 - Android (Java/Kotlin) 🥇 [1](#connectup) [2](#cuebap)
-- Express (Node.js) 🥇 [1](#acqua-api) [2](#서빙고-api)
+- Express (Node.js) 🥇 [1](#서빙고-api) [2](#acqua-api) 
 - AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈 [1](#서빙고-api)
 - React 🥈 [1](#서빙고-사장님-대시보드)
 - React-Native 🥈
