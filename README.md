@@ -1,5 +1,9 @@
 # Portfolio
+이진우
 
+email: etture@gmail.com
+
+tel: 010-3102-6706
 
 
 ## Proficiency
